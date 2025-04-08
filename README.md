@@ -59,6 +59,13 @@ Run unit tests with:
 ```bash
 make test
 ```
+
+Or manually:
+
+```bash
+python3 -m unittest discover tests
+```
+
 ## These are the tests we have curently 
 - multiline name and reference
 - weird formatting and symbols
@@ -73,12 +80,6 @@ make test
 - address with no suffix
 - split canadian zip parts
 
-
-Or manually:
-
-```bash
-python3 -m unittest discover tests
-```
 
 ---
 
