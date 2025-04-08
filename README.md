@@ -59,6 +59,20 @@ Run unit tests with:
 ```bash
 make test
 ```
+## These are the tests we have curently 
+- multiline name and reference
+- weird formatting and symbols
+- canadian zip without spaces
+- multiple zips only one valid
+- fuzzy input with address first
+- address with highway
+- address with state named street
+- suite inline with address
+- url tag does not crash
+- name with initials and suffix
+- address with no suffix
+- split canadian zip parts
+
 
 Or manually:
 
