@@ -3,6 +3,8 @@
 Turn messy strings into structured addresses.  
 Supports U.S. and Canadian formats with fuzzy parsing, reference extraction, and more.
 
+![TheAddressor](assets/theaddressor.webp)
+
 ---
 
 ## 🚀 Features
