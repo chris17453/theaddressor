@@ -70,10 +70,10 @@ python3 -m unittest discover tests
 
 ## 📦 Packaging
 
-To build and upload to PyPI:
+To build the package:
 
 ```bash
-make build check upload
+make build 
 ```
 
 ---
